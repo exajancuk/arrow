@@ -1,0 +1,2 @@
+# arrow
+pkg install python
