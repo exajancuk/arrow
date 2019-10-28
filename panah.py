@@ -20,7 +20,7 @@ except:
       pass
 print(i+'[!]Success !')
 sleep(1)
-print(b+'\n[!] Making setup file..')
+print(y+'\n[!] Making setup file..')
 sleep(1)
 
 key = "extra-keys = [['ESC','/','-','HOME','UP','END','PGUP'],['TAB','CTRL','ALT','LEFT','DOWN','RIGHT','PGDN']]"
