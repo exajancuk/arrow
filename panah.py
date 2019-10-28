@@ -2,7 +2,7 @@ import os
 from time import sleep
 
 
-i ="\033[30;1m"
+i ="\033[32;1m"
 y ="\033[36;1m"
 x ="\033[0m"
 os.system("clear")
